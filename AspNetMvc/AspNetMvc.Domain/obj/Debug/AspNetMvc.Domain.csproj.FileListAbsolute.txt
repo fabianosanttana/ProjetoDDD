@@ -2,3 +2,4 @@ C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Domain\bin\Debug\AspNet
 C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Domain\bin\Debug\AspNetMvc.Domain.pdb
 C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Domain\obj\Debug\AspNetMvc.Domain.dll
 C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Domain\obj\Debug\AspNetMvc.Domain.pdb
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Domain\obj\Debug\AspNetMvc.Domain.csprojResolveAssemblyReference.cache

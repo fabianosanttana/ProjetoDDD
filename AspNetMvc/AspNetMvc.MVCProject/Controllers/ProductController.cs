@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -17,6 +17,7 @@ namespace AspNetMvc.MVCProject.Controllers
         // GET: Product/Details/5
         public ActionResult Details(int id)
         {
+            tring jar;
             return View();
         }
 
