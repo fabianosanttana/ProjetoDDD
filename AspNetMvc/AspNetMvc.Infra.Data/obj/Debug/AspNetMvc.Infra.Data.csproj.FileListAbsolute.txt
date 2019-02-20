@@ -1,0 +1,12 @@
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\bin\Debug\AspNetMvc.Infra.Data.dll.config
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\bin\Debug\AspNetMvc.Infra.Data.dll
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\bin\Debug\AspNetMvc.Infra.Data.pdb
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\bin\Debug\AspNetMvc.Domain.dll
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\bin\Debug\AspNetMvc.Domain.pdb
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\obj\Debug\AspNetMvc.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\obj\Debug\AspNetMvc.Infra.Data.dll
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Infra.Data\obj\Debug\AspNetMvc.Infra.Data.pdb

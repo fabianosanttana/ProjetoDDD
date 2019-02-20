@@ -1,0 +1,7 @@
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Application\bin\Debug\AspNetMvc.Application.dll
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Application\bin\Debug\AspNetMvc.Application.pdb
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Application\bin\Debug\AspNetMvc.Domain.dll
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Application\bin\Debug\AspNetMvc.Domain.pdb
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Application\obj\Debug\AspNetMvc.Application.csprojResolveAssemblyReference.cache
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Application\obj\Debug\AspNetMvc.Application.dll
+C:\Users\fabiano.santana\Desktop\DDD\AspNetMvc\AspNetMvc.Application\obj\Debug\AspNetMvc.Application.pdb
